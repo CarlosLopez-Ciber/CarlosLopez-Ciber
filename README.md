@@ -11,7 +11,7 @@ Soy un estudiante apasionado por la Ciberseguridad.
 
 ## 🎓 Educación y Certificaciones
 - **Estudio en la Universidad Nacional Mayor de San Marcos la carrera de Computación Científica**
-- **Estudiante autodidacta de Ciberseguridad **
+- **Estudiante autodidacta de Ciberseguridad**
 
 ## 📫 Contacto
 - **LinkedIn**:
