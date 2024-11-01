@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Carlos López
 
-<!--
-**CarlosLopez-Ciber/CarlosLopez-Ciber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de Computación Científica y apasionado por la Ciberseguridad.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y Herramientas
+- **Lenguajes**: Python, C, HTMl
+- **Herramientas**: Git, BurpSuite, Nmap
+- **Otros**: VMware, Jekyll
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados
+
+## 🎓 Educación y Certificaciones
+- **Computación Científica**, Universidad Nacional Mayor de San Marcos
+- **Estudiante autodidacta de Ciberseguridad **
+
+## 📫 Contacto
+- **LinkedIn**:
+- **Correo**:
