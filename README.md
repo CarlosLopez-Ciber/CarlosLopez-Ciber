@@ -4,14 +4,14 @@
 
 Soy un estudiante apasionado por la Ciberseguridad.
 
+## 🎓 Educación y Certificaciones
+- **Estudiante autodidacta de Ciberseguridad**
+- **Estudio en la Universidad Nacional Mayor de San Marcos la carrera de Computación Científica**
+
 ## 🔧 Tecnologías y Herramientas
 - **Lenguajes**: Python, C, HTMl
 - **Herramientas**: Git, BurpSuite, Nmap
 - **Otros**: VMware, Jekyll
-
-## 🎓 Educación y Certificaciones
-- **Estudio en la Universidad Nacional Mayor de San Marcos la carrera de Computación Científica**
-- **Estudiante autodidacta de Ciberseguridad**
 
 ## 📫 Contacto
 - **LinkedIn**:
