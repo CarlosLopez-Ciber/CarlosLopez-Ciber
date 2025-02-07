@@ -10,9 +10,10 @@
 - :nerd_face: I never stop learning.
 - ❤️ I love swimming and video games.
 
-## 🎓 Educación y Certificaciones
-- **Estudiante autodidacta de Ciberseguridad**
-- **Estudio en la Universidad Nacional Mayor de San Marcos la carrera de Computación Científica**
+## 🎓 Continuous Learning
+
+**CISCO**
+  - IT Scentials
 
 ## 🔧 Tecnologías y Herramientas
 - **Lenguajes**: Python, C, HTMl
