@@ -10,7 +10,7 @@
 - :nerd_face: I never stop learning.
 - ❤️ I love swimming and video games.
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1Mjk3ZnN4MnQ3cWtvZ282Mmg3cnF2a255NnlkZDM4OWZrb3U1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XSmHWLpvdycR6xukzC/giphy.gif" width="50"/> Continuous Learning
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1Mjk3ZnN4MnQ3cWtvZ282Mmg3cnF2a255NnlkZDM4OWZrb3U1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XSmHWLpvdycR6xukzC/giphy.gif" width="50"/> Continuous Learning - Certificates
 
 **CISCO**
   - [IT Scentials](https://www.credly.com/badges/7b291bd9-51c0-4e74-b4bc-60b05c40f443)
