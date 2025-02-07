@@ -2,12 +2,16 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
+
+<br>
+<br>
 
 - :school: I am a student at the Faculty of Mathematical Sciences of the [National University of San Marcos - Lima, Peru](https://www.unmsm.edu.pe/).
 - :student: I am studying `Scientific Computing`.
 - 🛡️ I am passionate about `Mathematics` and `Cybersecurity`.
 - :nerd_face: I never stop learning.
+- ❤️ I love swimming and video games.
 
 <br>
 
