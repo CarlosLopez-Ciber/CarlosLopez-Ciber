@@ -22,10 +22,7 @@
   - [Linux Command Line for an Ethical Hacker](https://codered.eccouncil.org/certificate/0c9a5b44-3e33-41bf-8670-93f15ae08c97?logged=false)
 
 ## 🔧 Tecnologías y Herramientas
-- **Lenguajes**: Python, C, HTMl
+- **Lenguajes**: Python, C, HTML
 - **Herramientas**: Git, BurpSuite, Nmap
 - **Otros**: VMware, Jekyll
 
-## 📫 Contacto
-- **LinkedIn**:
-- **Correo**:
