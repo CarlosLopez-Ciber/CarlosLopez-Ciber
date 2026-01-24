@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Carlos Lopez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola!!, soy Carlos Lopez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
 <br>
 
@@ -9,6 +9,18 @@
 - 🛡️ I am passionate about `Mathematics` and `Cybersecurity`.
 - :nerd_face: I never stop learning.
 - ❤️ I love swimming and video games.
+
+## Lenguajes y Herramientas
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" alt="Metasploit" height="40" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" height="40" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/white" alt="Kali" height="40" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" height="40" width="40" />
+</div>
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1Mjk3ZnN4MnQ3cWtvZ282Mmg3cnF2a255NnlkZDM4OWZrb3U1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XSmHWLpvdycR6xukzC/giphy.gif" width="50"/> Continuous Learning - Certificates
 
