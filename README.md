@@ -17,6 +17,8 @@
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Wireshark" height="40" width="40" />
   &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/neovim/57A143" alt="Metasploit" height="40" width="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/metasploit/2596CD" alt="Metasploit" height="40" width="40" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" height="40" width="40" />
