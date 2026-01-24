@@ -13,6 +13,8 @@
 ## Lenguajes y Herramientas
 
 <div align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Wireshark" height="40" width="40" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Wireshark" height="40" width="40" />
   <img src="https://cdn.simpleicons.org/metasploit/2596CD" alt="Metasploit" height="40" width="40" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" height="40" width="40" />
