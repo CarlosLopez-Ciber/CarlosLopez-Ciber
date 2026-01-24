@@ -26,6 +26,8 @@
   <img src="https://cdn.simpleicons.org/kalilinux/white" alt="Kali" height="40" width="40" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" height="40" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/obsidian/7C3AED" alt="Metasploit" height="40" width="40" />
 </div>
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1Mjk3ZnN4MnQ3cWtvZ282Mmg3cnF2a255NnlkZDM4OWZrb3U1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XSmHWLpvdycR6xukzC/giphy.gif" width="50"/> Continuous Learning - Certificates
