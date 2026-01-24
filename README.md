@@ -4,11 +4,7 @@
 
 <br>
 
-- :school: I am a student at the Faculty of Mathematical Sciences of the [National University of San Marcos - Lima, Peru](https://www.unmsm.edu.pe/).
-- :student: I am studying `Scientific Computing`.
-- 🛡️ I am passionate about `Mathematics` and `Cybersecurity`.
-- :nerd_face: I never stop learning.
-- ❤️ I love swimming and video games.
+Soy un estudiante de **Administración de Ciberseguridad** con una mentalidad profundamente **autodidacta** y una pasión insaciable por entender cómo funcionan (y cómo se rompen) los sistemas. Mi día a día transcurre entre el aprendizaje y la práctica constante. Fiel creyente de la documentación eficiente, utilizo **Obsidian** para organizar mis conocimientos en notas atómicas.
 
 ## Lenguajes y Herramientas
 
