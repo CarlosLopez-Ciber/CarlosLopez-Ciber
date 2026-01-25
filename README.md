@@ -26,19 +26,55 @@ Soy un estudiante de **Administración de Ciberseguridad** con una mentalidad pr
   <img src="https://cdn.simpleicons.org/obsidian/7C3AED" alt="Metasploit" height="40" width="40" />
 </div>
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1Mjk3ZnN4MnQ3cWtvZ282Mmg3cnF2a255NnlkZDM4OWZrb3U1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XSmHWLpvdycR6xukzC/giphy.gif" width="50"/> Continuous Learning - Certificates
-
-**CISCO**
-  - [IT Scentials](https://www.credly.com/badges/7b291bd9-51c0-4e74-b4bc-60b05c40f443)
-  - [Introduction to Cybersecurity](https://www.credly.com/badges/5a75a798-1171-4795-924d-d97bd0b26321/linked_in_profile)
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1Mjk3ZnN4MnQ3cWtvZ282Mmg3cnF2a255NnlkZDM4OWZrb3U1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XSmHWLpvdycR6xukzC/giphy.gif" width="50"/> Certificaciones
 
 **EC-Council**
-  - [Cybersecurity for Businesses](https://codered.eccouncil.org/certificate/ab52f40d-88e3-4610-afaf-78ddddede1bf?logged=false)
-  - [Introduction to Dark Web, Anonymity, and Cryptocurrency](https://codered.eccouncil.org/certificate/f8f1c0a4-bbf3-4f85-ad27-fda6a4703228?logged=false)
-  - [Linux Command Line for an Ethical Hacker](https://codered.eccouncil.org/certificate/0c9a5b44-3e33-41bf-8670-93f15ae08c97?logged=false)
+  - Certified Cybersecurity Technician (C|CT)
 
-## 🔧 Tecnologías y Herramientas
-- **Lenguajes**: Python, C, HTML
-- **Herramientas**: Git, BurpSuite, Nmap
-- **Otros**: VMware, Jekyll
+**CertiProf**
+  - Cybersecurity Awareness - CAPC
+
+**Hack & Fix**
+  - Certified Phishing Prevention Specialist (CPPS)
+
+## 📚 Formación Continua
+
+<details>
+	  <summary><b>O'reilly</b></summary>
+  <ul>
+    <li>The Absolute Beginners Guide to Cyber Security - Alexander Oni</li>
+    <li>Network Defense Fundamentals</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Cisco</b></summary>
+  <ul>
+	<li>CCNA: Introduction to Networks</li>
+    <li>CCNA: Switching, Routing, and Wireless Essentials</li>
+	<li>IT Essentials</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>EC - Council</b></summary>
+  <ul>
+	<li>Linux Command Line for an Ethical Hacker</li>
+    <li>Introduction to Dark Web, Anonymity, and Cryptocurrency</li>
+	<li>Cybersecurity for Businesses</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Udemy</b></summary>
+  <ul>
+	<li>Fundamentos del Ethical Hacking - ExorciseThat </li>
+    <li>Complete Ethical Hacking Bootcamp - ZTM</li>
+  </ul>
+</details>
+
+## 📖 Librería Técnica
+
+* **Metasploit 5.0 for Beginners Second Edition** - *Rahalkar*
+* **Cybersecurity: The Beginner's Guide** - *Dr. Erdal Ozkaya*
 
