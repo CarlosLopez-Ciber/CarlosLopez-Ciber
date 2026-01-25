@@ -14,21 +14,21 @@ Soy un estudiante de **Administración de Ciberseguridad** con una mentalidad pr
 ## Lenguajes y Herramientas
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Wireshark" height="40" width="40" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" width="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Wireshark" height="40" width="40" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" height="40" width="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/neovim/57A143" alt="Metasploit" height="40" width="40" />
+  <img src="https://cdn.simpleicons.org/neovim/57A143" alt="Neovim" height="40" width="40" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/metasploit/2596CD" alt="Metasploit" height="40" width="40" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" height="40" width="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux/white" alt="Kali" height="40" width="40" />
+  <img src="https://cdn.simpleicons.org/kalilinux/white" alt="Kali Linux" height="40" width="40" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" height="40" width="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/obsidian/7C3AED" alt="Metasploit" height="40" width="40" />
+  <img src="https://cdn.simpleicons.org/obsidian/7C3AED" alt="Obsidian" height="40" width="40" />
 </div>
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1Mjk3ZnN4MnQ3cWtvZ282Mmg3cnF2a255NnlkZDM4OWZrb3U1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XSmHWLpvdycR6xukzC/giphy.gif" width="50"/> Certificaciones
