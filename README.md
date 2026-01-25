@@ -6,6 +6,11 @@
 
 Soy un estudiante de **Administración de Ciberseguridad** con una mentalidad profundamente **autodidacta** y una pasión insaciable por entender cómo funcionan (y cómo se rompen) los sistemas. Mi día a día transcurre entre el aprendizaje y la práctica constante. Fiel creyente de la documentación eficiente, utilizo **Obsidian** para organizar mis conocimientos en notas atómicas.
 
+## 🏆 Logros Académicos
+
+* **Décimo Superior** – I Ciclo (Puesto #7)
+* **Décimo Superior** – II Ciclo (Puesto #2)
+
 ## Lenguajes y Herramientas
 
 <div align="center">
