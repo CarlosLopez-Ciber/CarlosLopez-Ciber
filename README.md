@@ -34,8 +34,6 @@ Soy un estudiante de **Administración de Ciberseguridad** con una mentalidad pr
 ## 🤝 Contribuciones Open Source
 
 <!-- OSS-CONTRIBUTIONS:START -->
-He aportado a **2 proyectos externos** con **4 PRs fusionados** en total.
-
 <details>
   <summary><b><a href="https://github.com/Liam-Weitzel/maplestory-cursor">Liam-Weitzel/maplestory-cursor</a></b> (1 PR)</summary>
   <ul>

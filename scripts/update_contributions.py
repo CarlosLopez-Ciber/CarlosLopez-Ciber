@@ -64,15 +64,7 @@ def build_section(prs: list[dict]) -> str:
         repo_full_name = repo_api_url.split("/repos/", 1)[-1]
         repos.setdefault(repo_full_name, []).append(pr)
 
-    project_count = len(repos)
-    pr_count = len(prs)
-    project_label = "proyecto externo" if project_count == 1 else "proyectos externos"
-    pr_label = "PR fusionado" if pr_count == 1 else "PRs fusionados"
-
-    lines = [
-        f"He aportado a **{project_count} {project_label}** con **{pr_count} {pr_label}** en total.",
-        "",
-    ]
+    lines: list[str] = []
 
     for repo_name, repo_prs in repos.items():
         repo_url = f"https://github.com/{repo_name}"
