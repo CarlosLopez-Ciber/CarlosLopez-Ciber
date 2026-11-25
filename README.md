@@ -31,6 +31,28 @@ Soy un estudiante de **Administración de Ciberseguridad** con una mentalidad pr
   <img src="https://cdn.simpleicons.org/obsidian/7C3AED" alt="Obsidian" height="40" width="40" />
 </div>
 
+## 🤝 Contribuciones Open Source
+
+<!-- OSS-CONTRIBUTIONS:START -->
+He aportado a **2 proyectos externos** con **4 PRs fusionados** en total.
+
+<details>
+  <summary><b><a href="https://github.com/Liam-Weitzel/maplestory-cursor">Liam-Weitzel/maplestory-cursor</a></b> (1 PR)</summary>
+  <ul>
+    <li><a href="https://github.com/Liam-Weitzel/maplestory-cursor/pull/1">#1</a> — fix: add missing X11 cursor symlinks and update build/installation docs</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b><a href="https://github.com/ShrekBytes/advanced-pdf-export">ShrekBytes/advanced-pdf-export</a></b> (3 PRs)</summary>
+  <ul>
+    <li><a href="https://github.com/ShrekBytes/advanced-pdf-export/pull/71">#71</a> — docs: document mixed page orientation in README</li>
+    <li><a href="https://github.com/ShrekBytes/advanced-pdf-export/pull/68">#68</a> — feat: add mixed page orientation support</li>
+    <li><a href="https://github.com/ShrekBytes/advanced-pdf-export/pull/67">#67</a> — feat: add custom colors for individual callout types</li>
+  </ul>
+</details>
+<!-- OSS-CONTRIBUTIONS:END -->
+
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1Mjk3ZnN4MnQ3cWtvZ282Mmg3cnF2a255NnlkZDM4OWZrb3U1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XSmHWLpvdycR6xukzC/giphy.gif" width="50"/> Certificaciones
 
 **EC-Council**
